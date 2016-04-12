@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>VL.Common.ORM</id>
+    <version>1.0.1604081428.1</version>
+    <authors>SecretV</authors>
+    <owners>SecretV</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>关系映射模型
+VL.Common.ORM调整以简化
+内置操作如
+Insert(DbSession session, IDbQueryBuilder queryBuilder)
+提供了 重载方法
+Insert(DbSession session, InsertBuilder insertBuilder)</description>
+    <copyright>Copyright ©  2016</copyright>
+    <dependencies>
+      <dependency id="VL.Common.DAS" version="1.0.1604071737.0" />
+    </dependencies>
+  </metadata>
+</package>

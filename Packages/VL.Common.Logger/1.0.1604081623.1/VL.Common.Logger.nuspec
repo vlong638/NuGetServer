@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>VL.Common.Logger</id>
+    <version>1.0.1604081623.1</version>
+    <authors>SecretV</authors>
+    <owners>SecretV</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>VL.Common.Logger-日志工具
+LoggerHelper改名为LoggerProvider</description>
+    <copyright>Copyright ©  2016</copyright>
+    <dependencies>
+      <dependency id="log4net" version="2.0.5" />
+    </dependencies>
+  </metadata>
+</package>

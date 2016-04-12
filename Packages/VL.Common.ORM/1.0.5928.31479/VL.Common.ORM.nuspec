@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>VL.Common.ORM</id>
+    <version>1.0.5928.31479</version>
+    <title>VL.Common.ORM</title>
+    <authors>VL</authors>
+    <owners>VL</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>关系映射模型</description>
+    <copyright>Copyright ©  2016</copyright>
+    <dependencies>
+      <dependency id="VL.Common.DAS" version="1.0.0.0" />
+    </dependencies>
+  </metadata>
+</package>
